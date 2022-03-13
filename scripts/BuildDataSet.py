@@ -1,1 +1,0 @@
-projectsName = GetNameProjects()
